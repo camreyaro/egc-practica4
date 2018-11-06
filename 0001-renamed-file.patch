@@ -1,0 +1,17 @@
+From 607efe7c2e95b92b730079da9a14e91aedb1bb95 Mon Sep 17 00:00:00 2001
+From: Camila <camilareyyes@gmail.com>
+Date: Tue, 30 Oct 2018 11:13:59 +0100
+Subject: [PATCH] renamed file
+
+---
+ prueba1.txt => prueba.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename prueba1.txt => prueba.txt (100%)
+
+diff --git a/prueba1.txt b/prueba.txt
+similarity index 100%
+rename from prueba1.txt
+rename to prueba.txt
+-- 
+2.18.0.windows.1
+
